@@ -1,0 +1,12 @@
+body {
+ background-image: linear-gradient(to right, #86a8e7, #91eae4);
+}
+
+.my-app {
+ height: 100vh;
+ padding-top: 0.5rem !important;
+}
+
+.nav-brand {
+ font-size: 40px;
+}
